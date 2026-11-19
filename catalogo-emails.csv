@@ -1,0 +1,30 @@
+﻿codigo;categoria;segmento;serie;nn;tema;nome_rd;pasta;assunto;id_rd;status
+GER-PORT-01;Produtos;GER;PORT;01;Soluções para cada desafio;GER-PORT-01 - Soluções para cada desafio (claude);email-01;Sua empresa tem muitos desafios. Nós temos soluções para cada um deles.;23607776;rascunho no RD
+GER-CMAIS-01;Produtos;GER;CMAIS;01;Atendimento e IA;GER-CMAIS-01 - Atendimento e IA (claude);email-02;Seu WhatsApp atende ou só acumula mensagens?;23674576;rascunho no RD
+GER-TEL-01;Produtos;GER;TEL;01;Telecom;GER-TEL-01 - Telecom (claude);email-03;Telefonia Fixa - Móvel e Internet - Sua empresa conectada;23611031;rascunho no RD
+GER-DIG-01;Produtos;GER;DIG;01;Digital e Vendas;GER-DIG-01 - Digital e Vendas (claude);email-04;Sites, Landing Pages e Aplicativos para empresas;23616086;rascunho no RD
+GER-ECO-01;Produtos;GER;ECO;01;Ecossistema Connect;GER-ECO-01 - Ecossistema Connect (claude);email-05;WhatsApp, Propostas e Agendamentos: a sua operação conectada;23616303;rascunho no RD
+GER-CLOSE-01;Produtos;GER;CLOSE;01;Proposta profissional;GER-CLOSE-01 - Proposta profissional (claude);close-01;Gerador de Propostas e Orçamentos - Connect Close;23644270;rascunho no RD
+GER-CLOSE-02;Produtos;GER;CLOSE;02;Propostas do seu jeito;GER-CLOSE-02 - Propostas do seu jeito (claude);close-02;Gerador de Propostas Comerciais;23644273;rascunho no RD
+GER-CLOSE-03;Produtos;GER;CLOSE;03;Padronizadas e personalizadas;GER-CLOSE-03 - Padronizadas e personalizadas (claude);close-03-padronizacao;Gerador de propostas personalizadas e padronizadas;;ainda não subiu
+GER-BF26-01;Produtos;GER;BF26;01;Black Friday Connect+;GER-BF26-01 - Black Friday Connect+ (claude);black-friday-01;WhatsApp API Oficial - Black Friday;23623772;rascunho no RD
+GER-CALWEB-01;Produtos;GER;CALWEB;01;Convite;GER-CALWEB-01 - Convite (claude);webinar-calendar-01;Webinar: lançamento oficial do Connect Calendar;23623690;rascunho no RD
+GER-CALWEB-02;Produtos;GER;CALWEB;02;Interesse;GER-CALWEB-02 - Interesse (claude);webinar-calendar-02;Webinar Connect Calendar: agenda online;23644235;rascunho no RD
+GER-CALWEB-03;Produtos;GER;CALWEB;03;Expectativa;GER-CALWEB-03 - Expectativa (claude);webinar-calendar-03;Está chegando! O lançamento do Connect Calendar tem uma surpresa;23644240;rascunho no RD
+GER-PABX-01;Produtos;GER;PABX;01;PABX Virtual;GER-PABX-01 - PABX Virtual (claude);servico-01;PABX Virtual: ligações ilimitadas e tarifadas;;ainda não subiu
+GER-SIP-01;Produtos;GER;SIP;01;SIP Trunk;GER-SIP-01 - SIP Trunk (claude);servico-02;SIP Trunk: ligações ilimitadas e tarifadas;;ainda não subiu
+GER-LINK-01;Produtos;GER;LINK;01;Link Dedicado;GER-LINK-01 - Link Dedicado (claude);servico-03;Link Dedicado - Internet Empresarial;;ainda não subiu
+GER-NUM-01;Produtos;GER;NUM;01;0800, 0303 e 4004;GER-NUM-01 - 0800, 0303 e 4004 (claude);servico-04;0800, 0303 e 4004: número único para empresas;;ainda não subiu
+GER-MOVEL-01;Produtos;GER;MOVEL;01;Telefonia Móvel;GER-MOVEL-01 - Telefonia Móvel (claude);servico-05;Telefonia móvel: ligações ilimitadas;;ainda não subiu
+GER-SITES-01;Produtos;GER;SITES;01;Criação de Sites;GER-SITES-01 - Criação de Sites (claude);servico-06;Criação de sites e landing pages a partir de R$ 697;23675496;rascunho no RD
+GER-APPS-01;Produtos;GER;APPS;01;Criação de Aplicativos;GER-APPS-01 - Criação de Aplicativos (claude);servico-07;Criação de aplicativos;;ainda não subiu
+SIND-CMAIS-01;Produtos;SIND;CMAIS;01;Atendimento;SIND-CMAIS-01 - Atendimento (claude);sindicatos-01;Atendimento no WhatsApp da entidade, sem fila e sem bagunça;23635505;rascunho no RD
+SIND-CMAIS-02;Produtos;SIND;CMAIS;02;Gestão;SIND-CMAIS-02 - Gestão (claude);sindicatos-02;Sua diretoria enxerga o atendimento do WhatsApp?;23635506;rascunho no RD
+SIND-CMAIS-03;Produtos;SIND;CMAIS;03;Case Sindec;SIND-CMAIS-03 - Case Sindec (claude);sindicatos-03;Como o Sindec organizou o atendimento no WhatsApp;23635507;rascunho no RD
+SIND-CMAIS-04;Produtos;SIND;CMAIS;04;Case Brasiletros;SIND-CMAIS-04 - Case Brasiletros (claude);sindicatos-04;Contracheque pelo WhatsApp: o caso Brasiletros;23635509;rascunho no RD
+SIND-CMAIS-05;Produtos;SIND;CMAIS;05;Convite;SIND-CMAIS-05 - Convite (claude);sindicatos-05;Automação de atendimento para sindicatos, previdências e associações;23635511;rascunho no RD
+PTI-PARC-01;Produtos;PTI;PARC;01;Oportunidade;PTI-PARC-01 - Oportunidade (claude);parceiros-ti-01;Sua empresa de TI pode ter uma nova fonte de receita;23644243;rascunho no RD
+PTI-PARC-02;Produtos;PTI;PARC;02;Como funciona;PTI-PARC-02 - Como funciona (claude);parceiros-ti-02;Você conhece empresas que precisam de tecnologia? Essa parceria pode interessar;23644247;rascunho no RD
+PTI-PARC-03;Produtos;PTI;PARC;03;Soluções;PTI-PARC-03 - Soluções (claude);parceiros-ti-03;Quantas oportunidades de negócio existem hoje na sua carteira de clientes?;23644253;rascunho no RD
+PTI-PARC-04;Produtos;PTI;PARC;04;Recorrência;PTI-PARC-04 - Recorrência (claude);parceiros-ti-04;E se seus clientes também gerassem receita recorrente para sua empresa?;23644259;rascunho no RD
+PTI-PARC-05;Produtos;PTI;PARC;05;Convite;PTI-PARC-05 - Convite (claude);parceiros-ti-05;Sua empresa de TI pode ser nossa próxima parceira;23644266;rascunho no RD
