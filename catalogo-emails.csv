@@ -6,18 +6,18 @@ GER-DIG-01;Produtos;GER;DIG;01;Digital e Vendas;GER-DIG-01 - Digital e Vendas (c
 GER-ECO-01;Produtos;GER;ECO;01;Ecossistema Connect;GER-ECO-01 - Ecossistema Connect (claude);email-05;WhatsApp, Propostas e Agendamentos: a sua operação conectada;23616303;rascunho no RD
 GER-CLOSE-01;Produtos;GER;CLOSE;01;Proposta profissional;GER-CLOSE-01 - Proposta profissional (claude);close-01;Gerador de Propostas e Orçamentos - Connect Close;23644270;rascunho no RD
 GER-CLOSE-02;Produtos;GER;CLOSE;02;Propostas do seu jeito;GER-CLOSE-02 - Propostas do seu jeito (claude);close-02;Gerador de Propostas Comerciais;23644273;rascunho no RD
-GER-CLOSE-03;Produtos;GER;CLOSE;03;Padronizadas e personalizadas;GER-CLOSE-03 - Padronizadas e personalizadas (claude);close-03-padronizacao;Gerador de propostas personalizadas e padronizadas;;ainda não subiu
+GER-CLOSE-03;Produtos;GER;CLOSE;03;Padronizadas e personalizadas;GER-CLOSE-03 - Padronizadas e personalizadas (claude);close-03-padronizacao;Gerador de propostas personalizadas e padronizadas;23695986;rascunho no RD
 GER-BF26-01;Produtos;GER;BF26;01;Black Friday Connect+;GER-BF26-01 - Black Friday Connect+ (claude);black-friday-01;WhatsApp API Oficial - Black Friday;23623772;rascunho no RD
 GER-CALWEB-01;Produtos;GER;CALWEB;01;Convite;GER-CALWEB-01 - Convite (claude);webinar-calendar-01;Webinar: lançamento oficial do Connect Calendar;23623690;rascunho no RD
 GER-CALWEB-02;Produtos;GER;CALWEB;02;Interesse;GER-CALWEB-02 - Interesse (claude);webinar-calendar-02;Webinar Connect Calendar: agenda online;23644235;rascunho no RD
 GER-CALWEB-03;Produtos;GER;CALWEB;03;Expectativa;GER-CALWEB-03 - Expectativa (claude);webinar-calendar-03;Está chegando! O lançamento do Connect Calendar tem uma surpresa;23644240;rascunho no RD
-GER-PABX-01;Produtos;GER;PABX;01;PABX Virtual;GER-PABX-01 - PABX Virtual (claude);servico-01;PABX Virtual: ligações ilimitadas e tarifadas;;ainda não subiu
-GER-SIP-01;Produtos;GER;SIP;01;SIP Trunk;GER-SIP-01 - SIP Trunk (claude);servico-02;SIP Trunk: ligações ilimitadas e tarifadas;;ainda não subiu
-GER-LINK-01;Produtos;GER;LINK;01;Link Dedicado;GER-LINK-01 - Link Dedicado (claude);servico-03;Link Dedicado - Internet Empresarial;;ainda não subiu
-GER-NUM-01;Produtos;GER;NUM;01;0800, 0303 e 4004;GER-NUM-01 - 0800, 0303 e 4004 (claude);servico-04;0800, 0303 e 4004: número único para empresas;;ainda não subiu
-GER-MOVEL-01;Produtos;GER;MOVEL;01;Telefonia Móvel;GER-MOVEL-01 - Telefonia Móvel (claude);servico-05;Telefonia móvel: ligações ilimitadas;;ainda não subiu
+GER-PABX-01;Produtos;GER;PABX;01;PABX Virtual;GER-PABX-01 - PABX Virtual (claude);servico-01;PABX Virtual: ligações ilimitadas e tarifadas;23695989;rascunho no RD
+GER-SIP-01;Produtos;GER;SIP;01;SIP Trunk;GER-SIP-01 - SIP Trunk (claude);servico-02;SIP Trunk: ligações ilimitadas e tarifadas;23695992;rascunho no RD
+GER-LINK-01;Produtos;GER;LINK;01;Link Dedicado;GER-LINK-01 - Link Dedicado (claude);servico-03;Link Dedicado - Internet Empresarial;23695994;rascunho no RD
+GER-NUM-01;Produtos;GER;NUM;01;0800, 0303 e 4004;GER-NUM-01 - 0800, 0303 e 4004 (claude);servico-04;0800, 0303 e 4004: número único para empresas;23695996;rascunho no RD
+GER-MOVEL-01;Produtos;GER;MOVEL;01;Telefonia Móvel;GER-MOVEL-01 - Telefonia Móvel (claude);servico-05;Telefonia móvel: ligações ilimitadas;23695999;rascunho no RD
 GER-SITES-01;Produtos;GER;SITES;01;Criação de Sites;GER-SITES-01 - Criação de Sites (claude);servico-06;Criação de sites e landing pages a partir de R$ 697;23675496;rascunho no RD
-GER-APPS-01;Produtos;GER;APPS;01;Criação de Aplicativos;GER-APPS-01 - Criação de Aplicativos (claude);servico-07;Criação de aplicativos;;ainda não subiu
+GER-APPS-01;Produtos;GER;APPS;01;Criação de Aplicativos;GER-APPS-01 - Criação de Aplicativos (claude);servico-07;Criação de aplicativos;23696002;rascunho no RD
 SIND-CMAIS-01;Produtos;SIND;CMAIS;01;Atendimento;SIND-CMAIS-01 - Atendimento (claude);sindicatos-01;Atendimento no WhatsApp da entidade, sem fila e sem bagunça;23635505;rascunho no RD
 SIND-CMAIS-02;Produtos;SIND;CMAIS;02;Gestão;SIND-CMAIS-02 - Gestão (claude);sindicatos-02;Sua diretoria enxerga o atendimento do WhatsApp?;23635506;rascunho no RD
 SIND-CMAIS-03;Produtos;SIND;CMAIS;03;Case Sindec;SIND-CMAIS-03 - Case Sindec (claude);sindicatos-03;Como o Sindec organizou o atendimento no WhatsApp;23635507;rascunho no RD
