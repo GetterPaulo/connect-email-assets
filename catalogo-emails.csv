@@ -1,6 +1,8 @@
 ﻿codigo;categoria;segmento;serie;nn;tema;nome_rd;pasta;assunto;id_rd;status
 GER-PORT-01;Produtos;GER;PORT;01;Soluções para cada desafio;GER-PORT-01 - Soluções para cada desafio (claude);email-01;Sua empresa tem muitos desafios. Nós temos soluções para cada um deles.;23607776;rascunho no RD
 GER-CMAIS-01;Produtos;GER;CMAIS;01;Atendimento e IA;GER-CMAIS-01 - Atendimento e IA (claude);email-02;Seu WhatsApp atende ou só acumula mensagens?;23674576;rascunho no RD
+GER-CMAIS-02;Produtos;GER;CMAIS;02;Automatize e escale;GER-CMAIS-02 - Automatize e escale (claude);connectplus-02;Automatize o atendimento do WhatsApp e escale resultados com a Connect+;;ainda não subiu
+GER-CMAIS-03;Produtos;GER;CMAIS;03;Proteja seu número;GER-CMAIS-03 - Proteja seu número (claude);connectplus-03;Pare de ter bloqueios no WhatsApp. Proteja seu número agora.;;ainda não subiu
 GER-TEL-01;Produtos;GER;TEL;01;Telecom;GER-TEL-01 - Telecom (claude);email-03;Telefonia Fixa - Móvel e Internet - Sua empresa conectada;23611031;rascunho no RD
 GER-DIG-01;Produtos;GER;DIG;01;Digital e Vendas;GER-DIG-01 - Digital e Vendas (claude);email-04;Sites, Landing Pages e Aplicativos para empresas;23616086;rascunho no RD
 GER-ECO-01;Produtos;GER;ECO;01;Ecossistema Connect;GER-ECO-01 - Ecossistema Connect (claude);email-05;WhatsApp, Propostas e Agendamentos: a sua operação conectada;23616303;rascunho no RD
